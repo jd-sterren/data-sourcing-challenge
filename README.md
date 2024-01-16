@@ -16,3 +16,6 @@ be missed because it couldn't be found on TMDB.  The work around used included t
 same lambda function minus Review, leaving a space after \u2019 which also can 
 indicate end of quoted title.
 </p>
+<p>Other issues when trying to compare the csv example to data collected as instructed 
+involved missing data fields.  The order of columns wasn't specified but can be done 
+if requested.</p>
